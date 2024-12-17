@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Picross.iml" filepath="$PROJECT_DIR$/.idea/Picross.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picrossgame/picross-backend.iml" filepath="$PROJECT_DIR$/picrossgame/picross-backend.iml" />
     </modules>
   </component>
 </project>
