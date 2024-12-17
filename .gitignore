@@ -1,0 +1,27 @@
+# === General ===
+.DS_Store
+*.log
+*.tmp
+*.pem
+*.env
+.env.*             # All environment files
+.idea/             # JetBrains IDE folder
+.vscode/           # Visual Studio Code settings
+
+# Ignore all node_modules and target folders (in subfolders)
+**/node_modules/
+**/target/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE and OS files
+*.iml
+Thumbs.db
+
+# JVM crash logs
+hs_err_pid*
